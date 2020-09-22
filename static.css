@@ -16,6 +16,6 @@ img {
 }
 
 li {
-    padding-bottom: 1em;
+    margin: 1em;
     display: flex;
 }
