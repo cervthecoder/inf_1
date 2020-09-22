@@ -17,5 +17,5 @@ img {
 
 li {
     padding-bottom: 1em;
-    display: block;
+    display: flex;
 }
