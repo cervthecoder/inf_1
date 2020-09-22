@@ -16,5 +16,6 @@ img {
 }
 
 li {
-    padding: 1em
+    padding: 1em;
+    display: block;
 }
